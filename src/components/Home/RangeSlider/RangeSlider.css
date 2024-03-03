@@ -1,0 +1,11 @@
+input[type='range']::-webkit-slider-thumb {
+    background-color: white;
+    width: 14px;
+    /* Adjust thumb size if needed */
+    height: 14px;
+    /* Adjust thumb size if needed */
+    border-radius: 50%;
+    /* Ensure round shape */
+    cursor: pointer;
+    /* Show pointer cursor */
+}
